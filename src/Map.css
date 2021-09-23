@@ -1,0 +1,33 @@
+.map-container {
+    overflow: hidden;
+}
+.sidebar {
+    background-color: rgba(35, 55, 75, 0.9);
+    color: #ffffff;
+    padding: 6px 12px;
+    font-family: monospace;
+    z-index: 1;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 12px;
+    margin-top: 70px;
+    border-radius: 4px;
+  }
+.geo-container{
+    position: absolute;
+    /* width: 50%; */
+    /* padding: 10; */
+    /* top:10px; */
+    right:10px;
+    margin-top: 10px;
+    margin-left: 35%;
+    background-color: aqua;    /* z-index: 10; */
+}
+.map-popup{
+  /* background-color: black; */
+  /* border:0; */
+  /* width: 400px; */
+  /* padding: 10px; */
+  /* margin: 10px; */
+}

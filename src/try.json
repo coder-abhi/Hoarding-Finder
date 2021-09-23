@@ -1,0 +1,32 @@
+{
+    "db":[
+        {   "id" : 44,
+            "img":"/Img/H1.jpg",
+            "price":5100,
+            "location":[75.68249636123517,18.24238854336272],
+            "avail":"Available",
+            "avail-date":""
+        },
+        {   "id" : 2,
+            "img":"/Img/H2.jpg",
+            "price":12000,
+            "location":[75.53549636123517,18.24238854336272],
+            "avail":"Available",
+            "avail-date":""
+        },
+        {   "id" : 3,
+            "img":"/Img/H3.jpg",
+            "price":2200,
+            "location":[76.2249636123517,18.24638854336272],
+            "avail":"Available",
+            "avail-date":""
+        },
+        {   "id" : 4,
+            "img":"/Img/H4.jpg",
+            "price":2500,
+            "location":[75.68249636123517,18.45238864336272],
+            "avail":"Available",
+            "avail-date":""
+        }
+    ]
+}

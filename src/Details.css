@@ -1,0 +1,46 @@
+
+.details{
+    display: flex;
+    width:95vw;
+    height:95vh;
+    padding-top: 60px;
+    justify-content:space-around;
+    align-items: center;
+    /* margin-top: 60px; */
+    /* background-color: white ; */
+    /* background-color: aqua; */
+}
+.details-frame{
+    /* background-color: wheat; */
+    width:50%;  
+    height:78vh;
+    /* margin-top: 500px; */
+    display: flex;
+
+    justify-content: space-around;
+    align-items: center;
+    flex-direction:column;
+    background-color: wheat;
+    margin:2rem;
+}
+.details-frame *{
+    background-color: wheat;
+}
+.details-img{
+    height:20rem;
+    width:30rem;
+}
+.details-date{
+    /* background-color: wheat; */
+    width:35%;
+    /* align-items: center;
+    justify-content: center; */
+}
+.prebook{
+    width:120px;
+    height:25px;
+}
+.book{
+    width:120px;
+    height:25px;
+}
